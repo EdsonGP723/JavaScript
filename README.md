@@ -6,4 +6,4 @@
 [Práctica 5](https://github.com/EdsonGP723/JavaScript/blob/main/práctica5.js)
  
  ## Página
- Aquí va el link
+[GitHub Page](https://edsongp723.github.io/JavaScript/)
