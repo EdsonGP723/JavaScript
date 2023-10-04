@@ -47,9 +47,9 @@ class Pentagono extends Poligono{
     }
 }
 
-let miTriangulo = new Triangulo(5);
-let miCuadrado = new Cuadrado(3);
-let miPentagono = new Pentagono(3,3);
+export let miTriangulo = new Triangulo(5);
+export let miCuadrado = new Cuadrado(3);
+export let miPentagono = new Pentagono(3,3);
 
 console.log(`El área del triangulo es: ${miTriangulo.area()} y su perímetro es: ${miTriangulo.perimetro()}`);
 console.log(`El área del cuadrado es: ${miCuadrado.area()} y su perímetro es: ${miCuadrado.perimetro()}`);

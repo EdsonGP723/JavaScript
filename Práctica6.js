@@ -1,4 +1,4 @@
-function obtenerReloj(){
+export function obtenerReloj(){
     let fecha = new Date();
     let hours = fecha.getHours();
     let minutes = fecha.getMinutes();
