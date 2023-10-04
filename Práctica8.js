@@ -1,6 +1,6 @@
-import { obtenerReloj } from "./Modules/Reloj.js";
-import { factorial } from "./Modules/Factorial.js";
-import { miCuadrado,miPentagono,miTriangulo } from "./Modules/Poligono.js";
+import { obtenerReloj } from "./Práctica6.js";
+import { factorial } from "./Práctica7.js";
+import { miCuadrado,miPentagono,miTriangulo } from "./práctica5.js";
 
 console.log(obtenerReloj());
 console.log(factorial());
